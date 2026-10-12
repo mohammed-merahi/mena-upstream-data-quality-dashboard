@@ -1,0 +1,9 @@
+Well_ID,Issue_Type,Severity
+MEA023,missing_spud_date,High
+MEA025,missing_completion_date,High
+MEA030,missing_operator,High
+MEA026,invalid_status,Medium
+MEA027,invalid_status,Medium
+MEA024,future_spud_date,Critical
+MEA028,missing_depth,Medium
+MEA029,invalid_depth,Medium

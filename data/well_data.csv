@@ -1,0 +1,32 @@
+Well_ID,Well_Name,Field_Name,Operator,Country,Spud_Date,Completion_Date,Status,Depth_m,Rig_Name
+MEA001,HMD-101,Hassi Messaoud,Sonatrach,Algeria,2025-01-10,2025-04-15,Active,3520,HP-201
+MEA002,HMD-102,Hassi Messaoud,Sonatrach,Algeria,2025-02-05,2025-05-22,Completed,3675,HP-202
+MEA003,HBR-201,Hassi Berkine,Sonatrach,Algeria,2025-03-12,2025-07-01,Active,4100,HP-205
+MEA004,RHB-301,Rhourde El Baguel,Sonatrach,Algeria,2025-04-15,2025-08-10,Shut-In,2950,HP-210
+MEA005,GWR-101,Ghawar North,Saudi Aramco,Saudi Arabia,2025-02-14,2025-06-18,Active,3300,SKD-01
+MEA006,GWR-102,Ghawar North,Saudi Aramco,Saudi Arabia,2025-03-05,2025-07-20,Completed,3450,SKD-02
+MEA007,SFN-201,Safaniyah,Saudi Aramco,Saudi Arabia,2025-04-01,2025-08-25,Active,2900,OFF-15
+MEA008,SFN-202,Safaniyah,Saudi Aramco,Saudi Arabia,2025-04-18,2025-09-02,Completed,3050,OFF-16
+MEA009,BRZ-101,Burgan,Kuwait Oil Company,Kuwait,2025-05-08,2025-10-12,Active,2800,KOC-12
+MEA010,BRZ-102,Burgan,Kuwait Oil Company,Kuwait,2025-05-20,2025-10-28,Completed,2950,KOC-13
+MEA011,RML-101,Rumaila,BP Iraq,Iraq,2025-06-02,2025-11-15,Active,3650,RML-05
+MEA012,RML-102,Rumaila,BP Iraq,Iraq,2025-06-18,2025-11-30,Completed,3780,RML-06
+MEA013,WQN-101,West Qurna,ExxonMobil Iraq,Iraq,2025-07-10,2025-12-20,Active,3950,WQ-08
+MEA014,WQN-102,West Qurna,ExxonMobil Iraq,Iraq,2025-07-22,2026-01-08,Completed,4100,WQ-09
+MEA015,ZKR-101,Zakum Upper,ADNOC,UAE,2025-08-01,2026-01-25,Active,3200,AD-20
+MEA016,ZKR-102,Zakum Upper,ADNOC,UAE,2025-08-18,2026-02-05,Completed,3350,AD-21
+MEA017,BSH-101,Bab Field,ADNOC,UAE,2025-09-05,2026-02-25,Active,3000,AD-25
+MEA018,BSH-102,Bab Field,ADNOC,UAE,2025-09-22,2026-03-12,Completed,3150,AD-26
+MEA019,KNA-101,Khazzan,BPDO,Oman,2025-10-01,2026-04-01,Active,4500,OM-30
+MEA020,KNA-102,Khazzan,BPDO,Oman,2025-10-18,2026-04-15,Completed,4650,OM-31
+MEA021,NFR-101,North Field,QatarEnergy,Qatar,2025-11-05,2026-05-01,Active,3400,QE-01
+MEA022,NFR-102,North Field,QatarEnergy,Qatar,2025-11-20,2026-05-20,Completed,3500,QE-02
+MEA023,HMD-103,Hassi Messaoud,Sonatrach,Algeria,,2026-06-10,Active,3550,HP-220
+MEA024,GWR-103,Ghawar North,Saudi Aramco,Saudi Arabia,2030-01-10,2030-05-01,Active,3400,SKD-05
+MEA025,BRZ-103,Burgan,Kuwait Oil Company,Kuwait,2026-01-12,,Completed,2850,KOC-15
+MEA026,RML-103,Rumaila,BP Iraq,Iraq,2026-02-01,2026-08-10,Unknown,3700,RML-10
+MEA027,ZKR-103,Zakum Upper,ADNOC,UAE,2026-02-15,2026-08-25,RUNNING,3250,AD-28
+MEA028,KNA-103,Khazzan,BPDO,Oman,2026-03-10,2026-09-01,Active,,OM-35
+MEA029,NFR-103,North Field,QatarEnergy,Qatar,2026-03-20,2026-09-15,Active,9200,QE-05
+MEA030,HMD-104,Hassi Messaoud,,Algeria,2026-04-01,2026-10-05,Active,3600,HP-225
+MEA031,HMD-104,Hassi Messaoud,Sonatrach,Algeria,2026-04-01,2026-10-05,Active,3600,HP-225
